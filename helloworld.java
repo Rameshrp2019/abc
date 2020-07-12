@@ -1,4 +1,4 @@
-class HelloWorld 
+class helloworld 
 { 
     // Your program begins with a call to main(). 
     // Prints "Hello, World" to the terminal window. 
